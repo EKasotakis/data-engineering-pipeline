@@ -1,6 +1,7 @@
 import requests
+from src.utils import retry
 
-
+@retry(max_attempts=3, delay=2)
 def fetch_data() -> dict:
     url = "https://api.open-meteo.com/v1/forecast"
 
