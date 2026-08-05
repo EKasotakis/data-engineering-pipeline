@@ -216,6 +216,23 @@ http://localhost:8080
 
 ---
 
+## Screenshots
+
+### Streamlit Dashboard
+
+![Dashboard](docs/images/dashboard.png)
+
+### Apache Airflow DAG
+
+![Airflow DAG](docs/images/airflow_dag.png)
+
+### PostgreSQL Database
+
+![PostgreSQL](docs/images/postgres_table.png)
+
+---
+
+
 ## 👤 Author
 
 **Emmanouil Kasotakis**
