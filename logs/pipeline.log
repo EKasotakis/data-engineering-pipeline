@@ -32,3 +32,9 @@
 2026-08-04 16:15:16,079 | INFO | src.load | Loaded or updated 48 rows in PostgreSQL.
 2026-08-04 16:15:16,088 | INFO | __main__ | Processed CSV saved to: data/processed/weather_data_20260804_161515.csv
 2026-08-04 16:15:16,094 | INFO | __main__ | Pipeline completed successfully.
+2026-08-05 09:19:21,454 | INFO | __main__ | Pipeline started.
+2026-08-05 09:19:21,629 | INFO | __main__ | Raw JSON saved to: data/raw/weather_raw_20260805_091921.json
+2026-08-05 09:19:21,654 | INFO | __main__ | Validation passed.
+2026-08-05 09:19:21,770 | INFO | src.load | Loaded or updated 48 rows in PostgreSQL.
+2026-08-05 09:19:21,781 | INFO | __main__ | Processed CSV saved to: data/processed/weather_data_20260805_091921.csv
+2026-08-05 09:19:21,788 | INFO | __main__ | Pipeline completed successfully.
