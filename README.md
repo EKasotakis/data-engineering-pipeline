@@ -72,14 +72,20 @@ The project demonstrates the complete lifecycle of a production-style ETL pipeli
 Data_Engineering_Pipeline/
 │
 ├── airflow/
-│   └── dags/
+│   ├── dags/
+│   ├── config/
+│   ├── logs/
+│   └── plugins/
 │
 ├── data/
 │   ├── raw/
 │   └── processed/
 │
-├── logs/
+├── docs/
+│   └── images/
 │
+├── logs/
+├── sql/
 ├── src/
 │   ├── extract.py
 │   ├── transform.py
@@ -89,6 +95,8 @@ Data_Engineering_Pipeline/
 │   └── utils.py
 │
 ├── tests/
+│   ├── test_transform.py
+│   └── test_validate.py
 │
 ├── dashboard.py
 ├── main.py
