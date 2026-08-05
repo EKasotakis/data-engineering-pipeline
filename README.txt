@@ -149,7 +149,7 @@ pytest
 ### Clone the repository
 
 ```bash
-git clone https://github.com/your_username/data-engineering-pipeline.git
+git clone https://https://github.com/EKasotakis/data-engineering-pipeline.git
 cd data-engineering-pipeline
 ```
 
